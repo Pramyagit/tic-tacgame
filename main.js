@@ -15,7 +15,7 @@ let Winner=[
     [2,4,6]
 ];
 
-let options=["","","","","","","",""];
+let options=["","","","","","","","",""];
 let currentPlayer=X;
 let player="X";
 let running=false;
